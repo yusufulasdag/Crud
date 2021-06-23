@@ -1,0 +1,14 @@
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\bin\Debug\netcoreapp3.1\EventDataCrud.Bunnies.deps.json
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\bin\Debug\netcoreapp3.1\EventDataCrud.Bunnies.dll
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\bin\Debug\netcoreapp3.1\EventDataCrud.Bunnies.pdb
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\bin\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.dll
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\bin\Debug\netcoreapp3.1\EventDataCrud.Entities.dll
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\bin\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.pdb
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\bin\Debug\netcoreapp3.1\EventDataCrud.Entities.pdb
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\obj\Debug\netcoreapp3.1\EventDataCrud.Bunnies.csproj.AssemblyReference.cache
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\obj\Debug\netcoreapp3.1\EventDataCrud.Bunnies.AssemblyInfoInputs.cache
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\obj\Debug\netcoreapp3.1\EventDataCrud.Bunnies.AssemblyInfo.cs
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\obj\Debug\netcoreapp3.1\EventDataCrud.Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\obj\Debug\netcoreapp3.1\EventDataCrud.Bunnies.csproj.CopyComplete
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\obj\Debug\netcoreapp3.1\EventDataCrud.Bunnies.dll
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Bunnies\obj\Debug\netcoreapp3.1\EventDataCrud.Bunnies.pdb

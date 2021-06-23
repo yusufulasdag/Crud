@@ -1,0 +1,15 @@
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\bin\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.deps.json
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\bin\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.runtimeconfig.json
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\bin\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.runtimeconfig.dev.json
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\bin\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.dll
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\bin\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.pdb
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\bin\Debug\netcoreapp3.1\EventDataCrud.Entities.dll
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\bin\Debug\netcoreapp3.1\EventDataCrud.Entities.pdb
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.AssemblyInfo.cs
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.csproj.CopyComplete
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.dll
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.pdb
+C:\Users\Ulas\Desktop\Solution1\EnventDataCrud.DataAccess\obj\Debug\netcoreapp3.1\EnventDataCrud.DataAccess.genruntimeconfig.cache

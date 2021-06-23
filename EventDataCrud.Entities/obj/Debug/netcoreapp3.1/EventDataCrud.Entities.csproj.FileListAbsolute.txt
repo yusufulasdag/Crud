@@ -1,0 +1,9 @@
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\bin\Debug\netcoreapp3.1\EventDataCrud.Entities.deps.json
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\bin\Debug\netcoreapp3.1\EventDataCrud.Entities.dll
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\bin\Debug\netcoreapp3.1\EventDataCrud.Entities.pdb
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\obj\Debug\netcoreapp3.1\EventDataCrud.Entities.csproj.AssemblyReference.cache
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\obj\Debug\netcoreapp3.1\EventDataCrud.Entities.AssemblyInfoInputs.cache
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\obj\Debug\netcoreapp3.1\EventDataCrud.Entities.AssemblyInfo.cs
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\obj\Debug\netcoreapp3.1\EventDataCrud.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\obj\Debug\netcoreapp3.1\EventDataCrud.Entities.dll
+C:\Users\Ulas\Desktop\Solution1\EventDataCrud.Entities\obj\Debug\netcoreapp3.1\EventDataCrud.Entities.pdb
